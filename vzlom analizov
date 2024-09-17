@@ -1,0 +1,19 @@
+//proga dlya poddelki analizov v poliklinike
+#include<iostream>
+#include<cmath>
+
+using namespase std;
+
+class Generation()
+{
+    
+    
+}
+
+
+int main()
+{  
+    int p_k = 0; //podbor keys dlya kombinacia
+    int e_k = 0; //vvod key v parol
+
+}
